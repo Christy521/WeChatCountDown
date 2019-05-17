@@ -1,0 +1,3 @@
+<text>{{leftHour}}时</text>
+<text>{{leftMinutes}}分</text>
+<text>{{leftSeconds}}秒</text>
