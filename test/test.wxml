@@ -1,0 +1,6 @@
+<view wx:if="{{isShow}}">
+  <text>{{leftHour}}时</text>
+  <text>{{leftMinutes}}分</text>
+  <text>{{leftSeconds}}秒</text>
+</view>
+<view wx:else>活动结束</view>

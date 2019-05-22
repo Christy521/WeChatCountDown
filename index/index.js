@@ -1,7 +1,7 @@
 const app = getApp()
 Page({
   data: {
-    endTime: '2019-5-22 16:06:20',
+    endTime: '2019-5-22 19:06:20',
     timer: ''  
   },
   //时间处理
